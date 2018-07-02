@@ -1,0 +1,5 @@
+{
+  "app.env" : "dev",
+  // Http configuration
+  "http.port" : 8080
+}

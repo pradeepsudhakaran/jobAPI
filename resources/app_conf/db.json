@@ -1,0 +1,10 @@
+{
+  // DB configuration - Mysql
+  "db.driverClassName" : "com.mysql.cj.jdbc.Driver",
+  "db.connectionUrl" : "jdbc:mysql://127.0.0.1/TestDB?useAffectedRows=true",
+  "db.user" : "root",
+  "db.pwd" : "password",
+  "db.maxPoolSize" : 50,
+  "db.evictorScheduleInterval": 5000, // milliseconds
+  "db.poolIdleEvictionTime": 5000 // milliseconds
+}
