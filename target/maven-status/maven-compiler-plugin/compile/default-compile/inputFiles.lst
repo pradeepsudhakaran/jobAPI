@@ -11,6 +11,7 @@
 /home/auzmor/Project/auzmor_backend/jobAPI/src/main/java/com/server/bo/JobBO.java
 /home/auzmor/Project/auzmor_backend/jobAPI/src/main/java/com/server/constants/ConnectionConstant.java
 /home/auzmor/Project/auzmor_backend/jobAPI/src/main/java/com/server/builder/DbBuilder.java
+/home/auzmor/Project/auzmor_backend/jobAPI/src/main/java/com/server/kafka/ConsumeRecord.java
 /home/auzmor/Project/auzmor_backend/jobAPI/src/main/java/com/server/handler/JobHandler.java
 /home/auzmor/Project/auzmor_backend/jobAPI/src/main/java/com/server/helper/Deploy.java
 /home/auzmor/Project/auzmor_backend/jobAPI/src/main/java/com/server/helper/HandleConnection.java

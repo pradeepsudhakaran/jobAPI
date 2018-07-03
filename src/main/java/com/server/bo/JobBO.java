@@ -8,4 +8,5 @@ import java.sql.SQLException;
 public interface JobBO {
   JsonArray getJobList(String searchFilter) throws SQLException;
   int createJob(MultiMap params);
+  int consumeRecord() throws SQLException;
 }

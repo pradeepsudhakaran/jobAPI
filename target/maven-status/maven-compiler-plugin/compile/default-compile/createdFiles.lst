@@ -1,3 +1,4 @@
+com/server/kafka/ConsumeRecord.class
 com/server/kafka/KafkaUtil.class
 com/server/dao/JobDAO.class
 com/server/Util/ResponseUtil.class
