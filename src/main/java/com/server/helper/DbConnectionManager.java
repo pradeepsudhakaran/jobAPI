@@ -28,7 +28,7 @@ public class DbConnectionManager {
    *
    * @param contextConfig
    *
-   * @author: Charles Sam Dilip
+   * @author: Pradeep S
    * @Modified: 31/JAN/2018
    */
   private DbConnectionManager(JsonObject contextConfig) {
@@ -64,7 +64,7 @@ public class DbConnectionManager {
    * Gives the acces to instance of connection manager
    * @return DbConnection manager
    *
-   * @author: Charles Sam Dilip
+   * @author: Pradeep S
    * @Modified: 31/JAN/2018
    */
   public static DbConnectionManager getInstance() {
@@ -107,7 +107,7 @@ public class DbConnectionManager {
    * @return Connection to the db
    * @throws SQLException
    *
-   * @author: Charles Sam Dilip
+   * @author: Pradeep S
    * @Modified: 31/JAN/2018
    */
   public Connection getDedicatedConnection() throws SQLException {
@@ -117,7 +117,7 @@ public class DbConnectionManager {
   /**
    * @return String of the connection pool status
    *
-   * @author: Charles Sam Dilip
+   * @author: Pradeep S
    * @Modified: 31/JAN/2018
    */
   public String getPoolStatus() {
